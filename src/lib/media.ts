@@ -104,7 +104,7 @@ export const photos = {
   portrait: { src: portrait, alt: "Arav in full dress uniform, carrying a folded American flag at a ceremony.", caption: "" },
   trail: { src: trail, alt: "Arav and his brother with trekking poles on a snowfield above a mountain valley.", caption: "Backpacking with my brother, Ansh." },
   coffee: { src: coffee, alt: "Hands setting a white ceramic dripper on a glass beaker of fresh pour-over coffee.", caption: "Photo: Gaia&Co on Unsplash." },
-  volleyball: { src: volleyball, alt: "A varsity volleyball match in the Academy's gym.", caption: "Varsity volleyball at home." },
+  volleyball: { src: volleyball, alt: "A varsity volleyball match in the Academy's gym, with Arav in the number 9 jersey.", caption: "Varsity volleyball at home. I'm #9." },
   risingStar: { src: risingStar, alt: "Arav in a white dress uniform at a Carlsbad Chamber of Commerce podium.", caption: "Accepting the Rising Star Award from the Carlsbad Chamber of Commerce." },
   modelCongress: { src: modelCongress, alt: "A mock courtroom session at Harvard Model Congress.", caption: "Harvard Model Congress, District Court." },
   interact: { src: interact, alt: "Interact Club members in school polos on a street in Carlsbad Village.", caption: "Interact Club volunteering in Carlsbad Village." },
